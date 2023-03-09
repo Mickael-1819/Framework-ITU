@@ -15,7 +15,7 @@ import etu1819.framework.servlet.Mapping;
 
 public class FrontServlet {
 
-HashMap<String,Mapping> MappingUrl;
+HashMap<String,Mapping> MappingUrls;
  
  
   }
